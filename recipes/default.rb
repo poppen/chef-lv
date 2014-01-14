@@ -41,4 +41,8 @@ elsif node['platform'] == "centos" && node['platform_version'].to_i < 6
   package "lv" do
     action :install
   end
+else
+  package "lv" do
+    action :install
+  end
 end
