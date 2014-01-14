@@ -1,4 +1,4 @@
-lv cookbook
+lv cookbook [![Build Status](https://travis-ci.org/poppen/chef-lv.png?branch=master)](https://travis-ci.org/poppen/chef-lv)
 ===========
 
 Description
