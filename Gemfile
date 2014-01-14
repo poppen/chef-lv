@@ -5,4 +5,5 @@ group :development do
   gem 'berkshelf'
   gem 'serverspec'
   gem 'kitchen-vagrant'
+  gem 'foodcritic'
 end
