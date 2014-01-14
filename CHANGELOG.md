@@ -1,12 +1,11 @@
 # CHANGELOG for lv
 
-This file is used to list changes made in each version of lv.
+## 0.2.0
 
-## 0.1.0:
+* Add test-kitchen
+* Support Ubuntu
+* Improve metadata.rb
 
-* Initial release of lv
+## 0.1.0
 
-- - -
-Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
-
-The [Github Flavored Markdown page](http://github.github.com/github-flavored-markdown/) describes the differences between markdown on github and standard markdown.
+* Initial release
