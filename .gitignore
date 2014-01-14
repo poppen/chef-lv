@@ -1,0 +1,14 @@
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+*.tmp
+*.bk
+*.bkup
+.kitchen/
+.bundle/
+vendor/
+.kitchen.local.yml
+Gemfile.lock
