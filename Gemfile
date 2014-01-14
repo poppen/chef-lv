@@ -1,9 +1,9 @@
 source 'https://rubygems.org/'
 
-group :development do
+gem 'foodcritic'
+
+group :integration do
   gem 'test-kitchen'
-  gem 'berkshelf'
   gem 'serverspec'
   gem 'kitchen-vagrant'
-  gem 'foodcritic'
 end
